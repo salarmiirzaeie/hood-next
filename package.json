@@ -24,7 +24,6 @@
   "devDependencies": {
     "postcss-discard-duplicates": "^7.0.2",
     "postcss-discard-empty": "^7.0.1",
-    "prettier": "^3.6.2",
     "stylelint": "^16.21.1",
     "stylelint-config-standard": "^38.0.0"
   }
